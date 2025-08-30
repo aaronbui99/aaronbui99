@@ -29,7 +29,6 @@ I’m the type of developer who enjoys diving into docs at 2AM, spinning up serv
 ## 🌟 Projects I’ve Been Cooking
 - 🔬 **Breast Cancer Detection CNN** → trained with PyTorch, deployed on AWS Lambda + FastAPI  
 - 🌍 **Multi-Cloud Web Ecosystem** → Next.js + Strapi, Wagtail sites, Shopify API integrations  
-- 📊 **Real Estate Market Research Tools** → competitor benchmarks, KPI dashboards, SWOTs  
 - 🤖 **Chatbots & AI Assistants** → Slack integrations, OCR-powered document Q&A bots  
 
 👉 Check out my repos 👉 [GitHub @aaronbui99](https://github.com/aaronbui99)  
